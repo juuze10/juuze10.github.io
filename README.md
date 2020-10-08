@@ -1,2 +1,2 @@
-# http://juuze10.github.io
+# https://juuze10.github.io
 Meu site pessoal
